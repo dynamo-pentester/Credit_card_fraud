@@ -11,9 +11,6 @@ This project focuses on detecting fraudulent transactions using a hybrid deep le
 ## Project Structure
 📂 fraud-detection │── 📜 fraud_detection.ipynb # Jupyter Notebook with the complete workflow │── 📜 README.md # Project documentation │── 📜 requirements.txt # List of required dependencies
 
-bash
-Copy
-Edit
 
 ## Installation
 Clone the repository and install dependencies:
